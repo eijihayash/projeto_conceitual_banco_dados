@@ -9,8 +9,8 @@ Este projeto tem como objetivo a criação e refinamento de um Diagrama de Entid
 - **Entrega**: Possui status e código de rastreio;
 
 ## Ferramentas Utilizadas
-- [dra.io](https://app.diagrams.net/)
-- [SQL Workbench] (https://www.sql-workbench.eu/)
+- [draw.io](https://app.diagrams.net/)
+- [SQL Workbench](https://www.sql-workbench.eu/)
 
 ## Visualização do Diagrama
 
