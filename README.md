@@ -2,8 +2,16 @@
 
 ## Obejtivo:
 
-Através da narrativa do e-commerce criar um diagrama DER e refine o modelo apresentado acrescentando os seguintes pontos:
+Este projeto tem como objetivo a criação e refinamento de um Diagrama de Entidade Relacionamento (DER) para um sistema de e-commerce, utilizando a narrativa do negócio como base. O modelo apresentado deverá incorporar os seguintes requisitos.
 
-- Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-- Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-- Entrega – Possui status e código de rastreio;
+- **Cliente PJ e PF**: Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+- **Pagamento**: Pode ter cadastrado mais de uma forma de pagamento;
+- **Entrega**: Possui status e código de rastreio;
+
+## Ferramentas Utilizadas
+- [dra.io](https://app.diagrams.net/)
+- [SQL Workbench] (https://www.sql-workbench.eu/)
+
+## Visualização do Diagrama
+
+
