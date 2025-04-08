@@ -1,6 +1,6 @@
 # Projeto de modelagem DER de e-commerce
 
-##Obejtivo:
+## Obejtivo:
 
 Através da narrativa do e-commerce criar um diagrama DER e refine o modelo apresentado acrescentando os seguintes pontos:
 
