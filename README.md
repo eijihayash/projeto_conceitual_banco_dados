@@ -1,6 +1,6 @@
 # Projeto de modelagem DER de e-commerce
 
-## Obejtivo:
+## Objetivo:
 
 Este projeto tem como objetivo a criação e refinamento de um Diagrama de Entidade Relacionamento (DER) para um sistema de e-commerce, utilizando a narrativa do negócio como base. O modelo apresentado deverá incorporar os seguintes requisitos.
 
