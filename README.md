@@ -1,1 +1,1 @@
-# projeto_conceitual_banco_dados
+# Projeto de modelagem DER de e-commerce
