@@ -13,8 +13,8 @@ Este projeto tem como objetivo a criação e refinamento de um Diagrama de Entid
 - [SQL Workbench](https://www.sql-workbench.eu/)
 
 ## Visualização do Diagrama
-1. ![Diagrama criado no draw.io](caminho/para/imagem.png)
+1. Diagrama criado no draw.io
 ![Image](https://github.com/user-attachments/assets/438ca6ad-7abb-4651-ba5d-72f23e0dbf1c)
-2. ![Diagrama criado no SQL Workbench](caminho/para/imagem.png)
+2. Diagrama criado no SQL Workbench
 
 
